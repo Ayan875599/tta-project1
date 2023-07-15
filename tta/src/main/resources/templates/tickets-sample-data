@@ -1,0 +1,4 @@
+insert into tickets (id, ticket_title, ticket_short_description, ticket_createdon) values (1, 'ticket1', 'ticket description', '27.12.2022');
+
+
+insert into tickets (id, ticket_title, ticket_short_description,ticket_createdon ) values (2, 'ABCD', 'ABCD', '27.12.2022');
